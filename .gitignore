@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .vscode/
 artifacts
+catboost_info/
 # C extensions
 *.so
 
